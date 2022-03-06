@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/glutton/static/css/main.0b2755ee.css",
+    "main.js": "/glutton/static/js/main.7a779f0a.js",
+    "index.html": "/glutton/index.html",
+    "main.0b2755ee.css.map": "/glutton/static/css/main.0b2755ee.css.map",
+    "main.7a779f0a.js.map": "/glutton/static/js/main.7a779f0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b2755ee.css",
+    "static/js/main.7a779f0a.js"
+  ]
+}
